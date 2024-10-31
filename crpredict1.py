@@ -13,7 +13,7 @@ import tempfile
 default_lab_data_file = "https://github.com/fushicorrosion/wl-cr-predict/raw/main/实验室数据-1021.1机器学习.xlsx"
 default_weight_loss_file = "https://github.com/fushicorrosion/wl-cr-predict/raw/main/副本4.5-失重检查片腐蚀速率数据（总表删除交流空白）-1021.1机器学习.xlsx"
 default_prediction_data_file = "https://github.com/fushicorrosion/wl-cr-predict/raw/main/用于预测用数据-1021.xlsx"
-default_model_file = "https://github.com/fushicorrosion/wl-cr-predict/raw/main/trained_model.pkl"
+default_model_file = "https://github.com/fushicorrosion/fushi-xiangguan/blob/main/trained_model.pkl"
 # 设置默认保存路径
 model_save_path = 'C:\\trained_model.pkl'
 
